@@ -39,7 +39,7 @@ const SettingsInProfile = () => {
           }}
         ></Box>
 
-        <ChangeTheme />
+        {/* <ChangeTheme /> */}
       </Paper>
     </div>
   );
